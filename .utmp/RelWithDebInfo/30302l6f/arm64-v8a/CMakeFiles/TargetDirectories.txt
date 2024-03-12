@@ -1,0 +1,5 @@
+D:/Aquivos/Trabalhos/unity/UnityDeveloperTesteTecnico/.utmp/RelWithDebInfo/30302l6f/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Aquivos/Trabalhos/unity/UnityDeveloperTesteTecnico/.utmp/RelWithDebInfo/30302l6f/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Aquivos/Trabalhos/unity/UnityDeveloperTesteTecnico/.utmp/RelWithDebInfo/30302l6f/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Aquivos/Trabalhos/unity/UnityDeveloperTesteTecnico/.utmp/RelWithDebInfo/30302l6f/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Aquivos/Trabalhos/unity/UnityDeveloperTesteTecnico/.utmp/RelWithDebInfo/30302l6f/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

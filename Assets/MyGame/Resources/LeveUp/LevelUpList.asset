@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6dd8f0a4480c54cb195e494324a2e5, type: 3}
+  m_Name: LevelUpList
+  m_EditorClassIdentifier: 
+  levelsUp:
+  - level: 'LV: 0'
+    requeredMoney: 0
+    Color: {r: 1, g: 1, b: 1, a: 1}
+    maxStackSize: 4
+  - level: 'LV: 1'
+    requeredMoney: 10
+    Color: {r: 1, g: 0.7833411, b: 0, a: 1}
+    maxStackSize: 5
+  - level: 'LV: 2'
+    requeredMoney: 20
+    Color: {r: 1, g: 0.4156863, b: 0, a: 1}
+    maxStackSize: 6
+  - level: 'LV: 3'
+    requeredMoney: 30
+    Color: {r: 1, g: 0.0090474365, b: 0, a: 1}
+    maxStackSize: 7
+  - level: 'LV: 4'
+    requeredMoney: 40
+    Color: {r: 1, g: 0, b: 0.48766518, a: 1}
+    maxStackSize: 8
+  - level: 'LV: 5'
+    requeredMoney: 50
+    Color: {r: 0.7635069, g: 0, b: 1, a: 1}
+    maxStackSize: 9
+  - level: 'LV: 6'
+    requeredMoney: 60
+    Color: {r: 0.26017094, g: 0, b: 1, a: 1}
+    maxStackSize: 10
+  - level: 'LV: 7'
+    requeredMoney: 70
+    Color: {r: 0, g: 1, b: 1, a: 1}
+    maxStackSize: 11
+  - level: 'LV: 8'
+    requeredMoney: 80
+    Color: {r: 0, g: 1, b: 0.5175524, a: 1}
+    maxStackSize: 12
+  - level: 'LV: 9'
+    requeredMoney: 100
+    Color: {r: 0.41176486, g: 1, b: 0, a: 1}
+    maxStackSize: 13
